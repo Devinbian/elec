@@ -1,7 +1,7 @@
 {
   "name": "elec",
   "version": "1.0.0",
-  "description": "a demo",
+  "description": "this is a demo",
   "main": "main.js",
   "repository": "https://github.com/Devinbian/Electron",
   "author": "DevinBian",
